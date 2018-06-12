@@ -5,7 +5,7 @@ var myName = 'Jack';
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
 // CODE HERE
-var faveNum = '74';
+var faveNum = 74;
 // #3 create a variable called 'lovesCode' and set it to true
 
 // CODE HERE
