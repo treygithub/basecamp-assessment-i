@@ -64,6 +64,6 @@ function sum (param){
 
 // CODE HERE
 function greeter(name,number){
-  var greeter  = 'Hi! I am ' + name + ' and I am ' + number + 'years old';
-  return greeter;
+  var str  = 'Hi! I am ' + name + ' and I am ' + number + ' years old';
+  return str;
 }
